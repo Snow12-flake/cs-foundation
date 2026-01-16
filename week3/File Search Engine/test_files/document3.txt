@@ -1,0 +1,4 @@
+Java web development spring boot
+Database SQL queries relationships
+Operating systems processes threads
+Computer networks TCP UDP sockets

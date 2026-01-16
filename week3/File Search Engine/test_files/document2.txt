@@ -1,0 +1,4 @@
+Python algorithms and data structures course
+Linked list insert delete traversal
+Hash map buckets chaining collision handling
+Binary search tree inorder traversal
