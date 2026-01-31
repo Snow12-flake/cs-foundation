@@ -1,4 +1,0 @@
-Python programming data structures algorithms
-Learn Python data structures for coding interviews
-Stack push pop peek operations
-Queue enqueue dequeue FIFO
